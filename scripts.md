@@ -37,7 +37,7 @@ install script
 ```
 mkdir -p ~/.script_node/strout/ && cd ~/.script_node/
 wget https://raw.githubusercontent.com/ToTheMars2/Helper_for_nodes/main/withdraw-rewards_delegate.sh && chmod +x withdraw-rewards_delegate.sh
-
+# **rename withdraw-rewards_delegate.sh gitopia-rew_delegate.sh**
 ```
 Screen
 ```
